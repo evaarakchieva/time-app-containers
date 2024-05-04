@@ -1,4 +1,4 @@
-# Time App
+# Time App containerization 
 
 Time application consists of frontend written using Vue.js framework, 
 backend written using Node.js and MySQL database.
